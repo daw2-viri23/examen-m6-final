@@ -5,9 +5,9 @@ export const header = {
         <div class="container-fluid">
           <a class="navbar-brand">Gestión de incidencias FPLLEFIA</a>
           <div>
-            <button class="btn btn-secondary ms-2">PANEL</button>
-            <button class="btn btn-secondary ms-2">LOGIN</button>
-            <button class="btn btn-secondary ms-2">REGISTRO</button>
+            <button class="btn btn-secondary ms-2" id="panel">PANEL</button>
+            <button class="btn btn-secondary ms-2" id="login">LOGIN</button>
+            <button class="btn btn-secondary ms-2" id="registro">REGISTRO</button>
           </div>
           <div>
             <span>administrador@fpllefia.com</span>
